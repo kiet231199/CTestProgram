@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+#ifndef _LEVEL_
+#define _LEVEL_
+
+#define KIET_LOG_LEVEL_BASE_INFO		(1u)
+#define KIET_LOG_LEVEL_BASE_WARNING		(2u)
+#define KIET_LOG_LEVEL_BASE_ERROR		(3u)
+
+#define KIET_LOG_LEVEL_INFO				(1u << KIET_LOG_LEVEL_BASE_INFO)
+#define KIET_LOG_LEVEL_WARNING			(3u << KIET_LOG_LEVEL_BASE_WARNING)
+#define KIET_LOG_LEVEL_ERROR			(5u << KIET_LOG_LEVEL_BASE_ERROR)
+
+#endif // _LEVEL_

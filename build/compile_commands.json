@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/kietpham/c_ex_project/build",
+  "command": "/usr/bin/cc  -I/home/kietpham/c_ex_project/include    -o CMakeFiles/calculator.dir/src/cmn/get_input.c.o   -c /home/kietpham/c_ex_project/src/cmn/get_input.c",
+  "file": "/home/kietpham/c_ex_project/src/cmn/get_input.c"
+},
+{
+  "directory": "/home/kietpham/c_ex_project/build",
+  "command": "/usr/bin/cc  -I/home/kietpham/c_ex_project/include    -o CMakeFiles/calculator.dir/src/cmn/get_output.c.o   -c /home/kietpham/c_ex_project/src/cmn/get_output.c",
+  "file": "/home/kietpham/c_ex_project/src/cmn/get_output.c"
+},
+{
+  "directory": "/home/kietpham/c_ex_project/build",
+  "command": "/usr/bin/cc  -I/home/kietpham/c_ex_project/include    -o CMakeFiles/calculator.dir/src/cmn/main.c.o   -c /home/kietpham/c_ex_project/src/cmn/main.c",
+  "file": "/home/kietpham/c_ex_project/src/cmn/main.c"
+},
+{
+  "directory": "/home/kietpham/c_ex_project/build",
+  "command": "/usr/bin/cc  -I/home/kietpham/c_ex_project/include    -o CMakeFiles/calculator.dir/src/simple/add.c.o   -c /home/kietpham/c_ex_project/src/simple/add.c",
+  "file": "/home/kietpham/c_ex_project/src/simple/add.c"
+}
+]
